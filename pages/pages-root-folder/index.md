@@ -21,7 +21,7 @@ widget3:
   title: "Camp"
   url: 'http://stonetreefarms.github.io/camp/'
   image: jump.jpg
-  text: 'We offer affordable riding camp for a vast variety of ages and riding levels over any school break. Stonetree Camp offers two daily riding lessons, (or a lesson and a games period) where skills, horsemanship, and fun will be focused on!'
+  text: 'We have an affordable riding camp for a vast variety of ages and riding levels over any school break. Stonetree Camp offers two daily riding lessons, (or a lesson and a games period) where <strong>skills</strong>, <strong>horsemanship</strong>, and <strong>fun</strong> will be focused on!'
 #
 # Use the call for action to show a button on the frontpage
 #
