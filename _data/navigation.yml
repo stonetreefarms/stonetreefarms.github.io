@@ -12,39 +12,28 @@
     url: "/about/facilities/"
 
 - title: News
-  url: "/blog/"
+  url: "/news-and-stories/"
   side: left
 
 - title: Sales
-  url: "/design/"
+  url: "/horses/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
+  - title: "Ali Baba"
+    url: "/horses/ali-baba/"
+  - title: "Antique Lace"
+    url: "/horses/antique-lace/"
+  - title: "Magic Man"
+    url: "/horses/magic-man/"
+  - title: "Morton's Tom Cat"
+    url: "/horses/mortons-tom-cat/"
+  - title: "Northwinds A Bit Painted"
+    url: "/horses/northwinds-a-bit-painted/"
 
 - title: "Camp"
-  url: "/search/"
+  url: "/camp/"
   side: left
 
 - title: "Contact"
-  url: "/contact/"
+  url: "/contact-us/"
   side: right

@@ -9,7 +9,7 @@ permalink: "/about/"
 
 <div class="row">
   <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}lorella-zanchetta.jpg" alt="" style="height:150px;">
+    <img src="{{ site.urlimg }}lorella-zanchetta.jpg" alt="">
   </div><!-- /.medium-4.columns -->
 
   <div class="medium-8 columns t30">
@@ -25,7 +25,7 @@ permalink: "/about/"
   </div><!-- /.medium-8.columns -->
 
   <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}david-brennen.jpg" alt="" style="height:175px;">
+    <img src="{{ site.urlimg }}david-brennen.jpg" alt="">
   </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
