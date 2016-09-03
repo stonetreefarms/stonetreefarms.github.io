@@ -3,13 +3,13 @@
   side: left
 
 - title: About
-  url: "/getting-started/"
+  url: "/about/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+  - title: "Services"
+    url: "/about/services/"
+  - title: "Facilities"
+    url: "/about/facilities/"
 
 - title: News
   url: "/blog/"
